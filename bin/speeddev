@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'speeddev'
+require 'pp'
+
+Speeddev::CLIParser.parse(ARGV)
+Speeddev::Operation.run
