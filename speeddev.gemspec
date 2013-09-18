@@ -7,7 +7,6 @@ Gem::Specification.new do |spec|
   spec.name          = "speeddev"
   spec.version       = Speeddev::VERSION
   spec.authors       = ["Jason Butz"]
-  spec.email         = ["jbutz@brake.com"]
   spec.description   = %q{Don't let different tools for different things slow you down. One tool to rule them all.}
   spec.summary       = %q{One tool to rule them all.}
   spec.homepage      = ""
